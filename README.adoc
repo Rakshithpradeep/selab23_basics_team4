@@ -1,8 +1,9 @@
 ---
-tags: [rest, hateoas, hypermedia, security, testing, oauth]
+tags: [rest, hateoas, hypermedia, security, testing, oauth, teja]
 projects: [spring-framework, spring-hateoas, spring-security, spring-security-oauth]
 ---
 :toc:
+
 :project_id: tut-rest
 :icons: font
 :source-highlighter: prettify
