@@ -198,9 +198,9 @@ Committee members can utilise a sophisticated filtering system to categorise pap
 
 **Technical Expertise:** Program committee members should have a good understanding of the conference management system, as they are involved in various managerial and decision-making tasks. They don't need to be as technically proficient as reviewers but should be comfortable navigating the system.
 
-**Security Levels: **Program committee members require secure login credentials to access the system, ensuring the confidentiality and integrity of the reviewing and decision-making process.
+**Security Levels:** Program committee members require secure login credentials to access the system, ensuring the confidentiality and integrity of the reviewing and decision-making process.
 
-**Educational Level and Experience: **Program committee members possess significant expertise in their respective academic or industry fields. They have experience in conference organisation and management, enabling them to make informed decisions about paper acceptance or rejection. Their experience also allows them to effectively manage the reviewing process and assign tasks strategically.
+**Educational Level and Experience:** Program committee members possess significant expertise in their respective academic or industry fields. They have experience in conference organisation and management, enabling them to make informed decisions about paper acceptance or rejection. Their experience also allows them to effectively manage the reviewing process and assign tasks strategically.
 
 
 ## **2.4** **Operating Environment**
