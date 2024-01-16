@@ -361,7 +361,7 @@ The system requires a dedicated server with modern processors, at least 8GB of R
 
 * **Login** : Program committee members log in with their credentials and are directed to the member's dashboard.
 * **Profile**: The User’s profile icon is displayed in the top right corner, linking to the profile page.
-* **Side Navigation Bar: **Features  a collapsible navigation with the following options:
+* **Side Navigation Bar:** Features  a collapsible navigation with the following options:
 * View Reviewed Papers
 * View UnReviewed Papers.
 
@@ -377,7 +377,7 @@ The system requires a dedicated server with modern processors, at least 8GB of R
 
 * **Layout** - Displays the reviewed papers in a row-wise manner
 
-**Columns : **
+**Columns :**
 
 i. **_Filter_** : includes a filter button to display the required papers based on topic.
 
